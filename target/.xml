@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="11.477" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Recruitment" name="Realizar proceso de contratación" time="11.281">
+<system-out><![CDATA[
+Given El usuario está en la página de inicio de sesión Orange...............passed
+When El usuario ingresa la cedula y la contraseña Orange....................passed
+And El usuario hace clic en el botón de Entrar Orange.......................passed
+Then El usuario debe ser redirigido a Dashboard Orange......................passed
+And El usuario hace clic en Recruitment Orange y en agregar.................passed
+]]></system-out>
+</testcase>
+</testsuite>

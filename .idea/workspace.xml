@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb0aa73a-2553-48bc-8201-e76a6521b219" name="Changes" comment="Se sube solución del reto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;FelipEthan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FelipEthan/FrameworkEkogui.git&quot;,
+    &quot;accountId&quot;: &quot;a803aab6-4b1c-4209-b3c0-dfccffe98ed0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pHNOcYlERvxvVy5ovKWyWfgViv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Scenario: Login exitoso con credenciales válidas rol administrador.executor": "Run",
+    "Cucumber Java.Scenario: Login exitoso con credenciales válidas.executor": "Run",
+    "Cucumber Java.Scenario: Radicación rol abogado.executor": "Run",
+    "Cucumber Java.Scenario: Realizar proceso de contratación (1).executor": "Run",
+    "Cucumber Java.Scenario: Realizar proceso de contratación.executor": "Run",
+    "Cucumber Java.Scenario: Validar creación del proceso de contratación.executor": "Run",
+    "JUnit.Runner.executor": "Run",
+    "Maven.FrameworkEkogui [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.FrameworkEkogui [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/andres/IdeaProjects/FrameworkRetoChocuairTesting",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.Runner">
+    <configuration name="Scenario: Login exitoso con credenciales válidas rol administrador" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Login exitoso con credenciales válidas rol administrador$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login exitoso con credenciales válidas rol administrador$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login exitoso con credenciales válidas rol administrador" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login exitoso con credenciales válidas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Login exitoso con credenciales válidas$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login exitoso con credenciales válidas$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login exitoso con credenciales válidas" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login exitoso con credenciales válidas" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Login exitoso con credenciales válidas$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login exitoso con credenciales válidas$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login exitoso con credenciales válidas" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Radicación rol abogado" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/CreateConciliacion.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Radicación rol abogado$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Radicación rol abogado$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Radicación rol abogado" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Realizar proceso de contratación (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/CreateRecruitment.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Realizar proceso de contratación$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Realizar proceso de contratación$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Realizar proceso de contratación" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Realizar proceso de contratación" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Realizar proceso de contratación$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Realizar proceso de contratación$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Realizar proceso de contratación" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Validar creación del proceso de contratación" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/CreateRecruitment.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="FrameworkEkogui" />
+      <option name="NAME_FILTER" value="^Validar creación del proceso de contratación$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Validar creación del proceso de contratación$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validar creación del proceso de contratación" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkEkogui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FrameworkEkogui" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.Runner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Runner" />
+        <item itemvalue="Cucumber Java.Scenario: Login exitoso con credenciales válidas" />
+        <item itemvalue="Cucumber Java.Scenario: Realizar proceso de contratación (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Validar creación del proceso de contratación" />
+        <item itemvalue="Cucumber Java.Scenario: Realizar proceso de contratación" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb0aa73a-2553-48bc-8201-e76a6521b219" name="Changes" comment="" />
+      <created>1732419009503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732419009503</updated>
+      <workItem from="1732419010811" duration="838000" />
+      <workItem from="1732419888237" duration="242000" />
+      <workItem from="1732420283628" duration="133000" />
+      <workItem from="1732420429798" duration="95000" />
+      <workItem from="1732420588940" duration="32000" />
+      <workItem from="1732420860478" duration="3000" />
+      <workItem from="1732420997680" duration="2000" />
+      <workItem from="1732421025176" duration="151000" />
+      <workItem from="1732421196563" duration="5000" />
+      <workItem from="1732421617609" duration="184000" />
+      <workItem from="1732421813993" duration="100000" />
+      <workItem from="1732422667778" duration="32000" />
+      <workItem from="1732422747124" duration="4000" />
+      <workItem from="1732457902172" duration="187000" />
+      <workItem from="1732463336183" duration="284000" />
+      <workItem from="1732469996654" duration="234000" />
+      <workItem from="1732472746518" duration="780000" />
+      <workItem from="1732489068642" duration="1361000" />
+      <workItem from="1732553139924" duration="904000" />
+      <workItem from="1732640029639" duration="6995000" />
+      <workItem from="1732713178419" duration="10135000" />
+      <workItem from="1732803940483" duration="15334000" />
+      <workItem from="1732890343786" duration="17779000" />
+      <workItem from="1732931826947" duration="2662000" />
+      <workItem from="1732939890674" duration="604000" />
+      <workItem from="1732944767897" duration="247000" />
+      <workItem from="1732945029547" duration="144000" />
+      <workItem from="1732977366294" duration="1306000" />
+      <workItem from="1733003867041" duration="6096000" />
+      <workItem from="1733264311244" duration="14000" />
+      <workItem from="1733264409327" duration="28000" />
+      <workItem from="1733271895325" duration="10000" />
+      <workItem from="1733365627115" duration="739000" />
+      <workItem from="1733366387942" duration="2058000" />
+      <workItem from="1733419542495" duration="609000" />
+      <workItem from="1733420231089" duration="171000" />
+      <workItem from="1736704055214" duration="153000" />
+      <workItem from="1737814565197" duration="452000" />
+      <workItem from="1738184969980" duration="791000" />
+      <workItem from="1738243442026" duration="695000" />
+      <workItem from="1738257141834" duration="957000" />
+      <workItem from="1738258697475" duration="170000" />
+      <workItem from="1738259046108" duration="1008000" />
+      <workItem from="1738268279680" duration="802000" />
+      <workItem from="1739041624459" duration="7371000" />
+      <workItem from="1739049027829" duration="30000" />
+    </task>
+    <task id="LOCAL-00001" summary="Se sube solución del reto">
+      <option name="closed" value="true" />
+      <created>1739048928982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739048928982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se" />
+    <MESSAGE value="Se sube solución del reto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se sube solución del reto" />
+  </component>
+</project>
